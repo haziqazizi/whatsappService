@@ -1,0 +1,14 @@
+{
+  "watch": [
+    "whatsappManager.js",
+    "express-example.js"
+  ],
+  "ignore": [
+    "sessions/",
+    "node_modules/",
+    "*.test.js"
+  ],
+  "ext": "js,json",
+  "delay": "1000",
+  "verbose": true
+}
